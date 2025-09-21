@@ -40,9 +40,9 @@ I’m a **Backend Developer** and a **contributor** to [Kotlin-JDSL](https://git
 ---
 
 ## 📚 Blog & Writing
-[![RDB 인덱스는 조회 성능에 얼마나 영향을 끼치는가](https://opengraph.githubassets.com/1/sjnqkqh/real-library)](https://real-dev.gitbook.io/real-library/real-post/rdb)
+[![RDB 인덱스는 조회 성능에 얼마나 영향을 끼치는가](./assets/rdb-index.png)](https://real-dev.gitbook.io/real-library/real-post/rdb)
 
-[![나의 오픈소스 기여기](https://opengraph.githubassets.com/1/sjnqkqh/real-library)](https://real-dev.gitbook.io/real-library/real-post/undefined)
+[![나의 오픈소스 기여기](/assets/opensource.png)](https://real-dev.gitbook.io/real-library/real-post/undefined)
 
 ---
 
