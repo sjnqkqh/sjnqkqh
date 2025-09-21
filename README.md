@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Real-DEV
 [![Gmail](https://img.shields.io/badge/Gmail-sjn3649@gmail.com-red?logo=gmail&logoColor=white)](mailto:sjn3649@gmail.com)  
 [![Blog](https://img.shields.io/badge/Blog-Real%20Library-blue?logo=gitbook&logoColor=white)](https://real-dev.gitbook.io/real-library)  
-[![Kotlin-JDSL](https://img.shields.io/badge/Kotlin--JDSL-Contributor-purple?logo=kotlin&logoColor=white)](https://github.com/line/kotlin-jdsl)
+[![Kotlin-JDSL](https://img.shields.io/badge/Kotlin--JDSL-Contributor-purple?logo=kotlin&logoColor=white)](https://github.com/line/kotlin-jdsl)  
 
+I’m a **Backend Developer** and a **contributor** to [Kotlin-JDSL](https://github.com/line/kotlin-jdsl), an open-source library by LINE.
 ---
 
 ## 👨‍💻 About Me
-- 5년차 백엔드 개발자  
-- RDB 성능 최적화 & SQL 튜닝 가능
-- AWS 인프라 및 CI/CD 구축 
-- Line/Kotlin-JDSL 오픈소스 컨트리뷰터  
+- 5년차 Java/Spring 기반 백엔드 개발자 
+- RDB 성능 최적화와 SQL 튜닝에 대한 숙련도가 높습니다.
+- 최근에는 Redis, Kafka를 통한 대규모 시스템 아키텍쳐 구성에 관심을 가지고 학습중입니다.
+- Line/Kotlin-JDSL 오픈소스의 컨트리뷰터입니다.
 
 ---
 
