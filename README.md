@@ -40,9 +40,10 @@ I’m a **Backend Developer** and a **contributor** to [Kotlin-JDSL](https://git
 ---
 
 ## 📚 Blog & Writing
-[![RDB 인덱스는 조회 성능에 얼마나 영향을 끼치는가](./assets/rdb-index.png)](https://real-dev.gitbook.io/real-library/real-post/rdb)
 
-[![나의 오픈소스 기여기](/assets/opensource.png)](https://real-dev.gitbook.io/real-library/real-post/undefined)
+
+- ⚡ [쿼리 튜닝과 인덱스 개선으로 23분짜리 쿼리를 0.02초로 줄이는 방법](https://real-dev.gitbook.io/real-library/real-post/rdb)  
+- 🛠️ [나의 오픈 소스 기여기](https://real-dev.gitbook.io/real-library/real-post/undefined)  
 
 ---
 
