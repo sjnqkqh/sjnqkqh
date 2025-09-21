@@ -45,6 +45,3 @@ I’m a **Backend Developer** and a **contributor** to [Kotlin-JDSL](https://git
 [![나의 오픈소스 기여기](/assets/TtoI-20250921201632.png)](https://real-dev.gitbook.io/real-library/real-post/undefined)
 
 ---
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjnqkqh&layout=compact&theme=radical)  
