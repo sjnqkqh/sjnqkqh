@@ -5,9 +5,9 @@
 [![Kotlin-JDSL](https://img.shields.io/badge/Open%20Source-Kotlin--JDSL%20Contributor-purple?logo=kotlin&logoColor=white)](https://github.com/line/kotlin-jdsl)  
 [![Gmail](https://img.shields.io/badge/Email-sjn3649@gmail.com-red?logo=gmail&logoColor=white)](mailto:sjn3649@gmail.com)  
 
-소프트웨어가 만드는 **실질적인 임팩트**에 집중합니다.
+2020년부터 코드를 다루기 시작했고, 4년 넘게 서버 개발자로 일하며 누군가에게 필요한 소프트웨어를 만드는 데서 가장 큰 가치를 발견했습니다.
 
-현장의 비즈니스 문제를 기술로 직접 풀어 매출 성장이나 업무의 극단적인 효율화를 만드는 **FDE(Forward Deployed Engineer)**, 그리고 다양한 분야의 도메인 전문가들이 프로그래밍을 배워 자신의 전문성 위에서 양질의 소프트웨어를 직접 만들 수 있도록 돕는 **교육**에 깊은 관심을 두고 있습니다.
+기술을 통해 비즈니스 현장의 병목을 풀어내는 **FDE(Forward Deployed Engineer)**, 그리고 도메인 전문가들이 스스로 도구를 만들 수 있도록 돕는 **교육**을 만들어가고 있습니다.
 
 ---
 
