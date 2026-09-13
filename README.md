@@ -1,6 +1,9 @@
 # Junlyul Yang (양준렬)
 
-[Blog](https://velog.io/@sjnqkqh/series) · [YouTube](https://www.youtube.com/@%EC%A0%95%EC%A7%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) · [Open Source](https://github.com/line/kotlin-jdsl) · [Email](mailto:sjn3649@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@sjnqkqh/series)  
+[![YouTube](https://img.shields.io/badge/YouTube-정진--프로그래밍-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@%EC%A0%95%EC%A7%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
+[![Kotlin-JDSL](https://img.shields.io/badge/Open%20Source-Kotlin--JDSL%20Contributor-purple?logo=kotlin&logoColor=white)](https://github.com/line/kotlin-jdsl)  
+[![Gmail](https://img.shields.io/badge/Email-sjn3649@gmail.com-red?logo=gmail&logoColor=white)](mailto:sjn3649@gmail.com)  
 
 소프트웨어가 만드는 **실질적인 임팩트**에 집중합니다.
 
