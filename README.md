@@ -1,4 +1,4 @@
-# Junlyul Yang (양준렬)
+# Junlyul Yang — FDE & Software Educator
 
 [![Blog](https://img.shields.io/badge/Blog-Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@sjnqkqh/series)  
 [![YouTube](https://img.shields.io/badge/YouTube-정진--프로그래밍-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@%EC%A0%95%EC%A7%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
